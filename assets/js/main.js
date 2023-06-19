@@ -220,7 +220,7 @@
 
 var myCarousel = document.querySelector('#myCarousel')
 var carousel = new bootstrap.Carousel(myCarousel, {
-  interval: 2000,
+  interval: 6000,
   wrap: false
 })
 
